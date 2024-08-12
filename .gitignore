@@ -1,0 +1,5 @@
+*.txt
+!writeaday_sample.txt
+
+*.csv
+!daylio_sample.csv

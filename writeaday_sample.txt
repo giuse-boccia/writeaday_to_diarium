@@ -1,0 +1,7 @@
+01-29-2023
+[7:03 PM] This is the first entry of the day.
+[11:43 PM] This is another "entry", later in the day
+
+01-30-2023
+                [11:00 AM] This is an entry of the following day.
+It is composed of multiple lines
